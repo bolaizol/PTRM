@@ -14,7 +14,6 @@ This is a short manual to run the necesary python scripts to automate the PTRM c
 - ptrm_programs.py: this subscript calls the different PTRM programs that actually run the calculations. The input for the calculations can be edited here.
 - parameters.py: this is the subscript that needs the most editting. It contains the variables for the nucleus to be calculated, ranges of the calulcation parameters, directory paths, etc...
 
-
 +++ How to run a calculation
 
 1. After familiarizating yourself with how the PTRM code works and how the imput works, you should edit the ptrm_programs.py script:
